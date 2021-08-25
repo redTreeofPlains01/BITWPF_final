@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BitServices_version_1.App" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.MainWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAEAAAIAAAAAAAgAAAABAjAAAAAAAAAIAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.MyCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEACAAQAAEAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.DataAccessLayer.SQLHelper" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAEAAAAAAAAAAQAAAFAAAAgA=</HashCode>
+      <FileName>DataAccessLayer\SQLHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.Models.AvailableSession" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAIggAEAAAQAAAAAAABAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Models\AvailableSession.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.Models.AvailableSessions" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AvailableSessions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.Models.Client" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEUAgEAECCgAAQgAqAEAKAAAgAAAAAACAgIApEAAABk=</HashCode>
+      <FileName>Models\Client.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.Models.Clients" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Clients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.Models.Contractor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEUAgEAECCAAIggAMAEAKAAAgAAAAQACAgIApEAAABk=</HashCode>
+      <FileName>Models\Contractor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.Models.Contractors" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Contractors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.Models.ContractorSkill" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAIAAAAAAAgABAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Models\ContractorSkill.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.Models.ContractorSkills" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ContractorSkills.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.Models.JobBooking" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEABgAIEAIIAIAgCOAQATEAAgABASAADMgZA1kAAAMA=</HashCode>
+      <FileName>Models\JobBooking.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.Models.JobBookings" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\JobBookings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.Models.SearchClient" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIgAAAAAAAEAACoAAAAAAAgAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Models\SearchClient.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.Models.SearchClients" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\SearchClients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.Models.SearchContractor" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAIAAAMAAAQAAAgAAABAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Models\SearchContractor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.Models.SearchContractors" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\SearchContractors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.Models.Skill" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAIAAAAAQAgABAABAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\Skill.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.Models.Skills" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Skills.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.Models.Staff" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEUAgEAECCAAAAgAIAEAKAAAgAAABAACAgIApEAAABk=</HashCode>
+      <FileName>Models\Staff.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.Models.Staffs" Collapsed="true">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Staffs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.ViewModels.AddClientViewModel" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEADAAAAAAAAACAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>ViewModels\AddClientViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.ViewModels.AddContractorViewModel" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAADAAAAAAAAgKAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\AddContractorViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.ViewModels.AddJobBookingViewModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAEAAAIAAAgAgEAhIEUAABBAhCAAAEBAAAAAAAAABAQ=</HashCode>
+      <FileName>ViewModels\AddJobBookingViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.ViewModels.AddSkillViewModel" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAADAAAAAAAAACAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>ViewModels\AddSkillViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.ViewModels.AddStaffViewModel" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAADAAAAAAAAACAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>ViewModels\AddStaffViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.ViewModels.ClientViewModel" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgEAAAAAAAAAAACUgAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\ClientViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.ViewModels.ContractorSkillViewModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAEAAAAAAAAAEJAAAgARAgKAAAQTAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\ContractorSkillViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.ViewModels.ContractorViewModel" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgEAAAAAAAAAAAAAgAAQAgAAAAADAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\ContractorViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.ViewModels.JobBookingViewModel" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCAAEAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\JobBookingViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.ViewModels.SearchClientViewModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgEAAIAUAAAAAgCAAAEAAAAAAAAAABAQ=</HashCode>
+      <FileName>ViewModels\SearchClientViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.ViewModels.SearchContractorViewModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAIAAAAAAAgIAAAEDAAAAAAAAABCA=</HashCode>
+      <FileName>ViewModels\SearchContractorViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.ViewModels.SkillViewModel" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAgEAAAAAAAAAABAAgAABAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\SkillViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.ViewModels.StaffViewModel" Collapsed="true">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgEAIAAAAAAAAAAAgAAABACAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\StaffViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitServices_version_1.Views.AddClientView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAgAAAAAAAAAAAAAAAAAAAACAAAAAIAAAAA=</HashCode>
+      <FileName>Views\AddClientView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.Views.AddContractorView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Views\AddContractorView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.Views.AddJobBookingView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAgAAAgAAAAAAAAAAAAAAAACAAAAIAAAAAA=</HashCode>
+      <FileName>Views\AddJobBookingView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.Views.AddSkill" BaseTypeListCollapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIQAAAgAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Views\AddSkill.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.493" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.Views.AddStaffView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\AddStaffView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.Views.ClientManagement" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\ClientManagement.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.Views.ContractorManagement" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\ContractorManagement.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.Views.ContractorSkillManagement" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Views\ContractorSkillManagement.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.Views.JobBookingManagement" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\JobBookingManagement.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.Views.LogIn" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\LogIn.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.Views.SkillManagement" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\SkillManagement.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BitServices_version_1.Views.StaffManagement" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\StaffManagement.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,158 @@
+﻿<Page x:Class="BitServices_version_1.Views.AddJobBookingView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BitServices_version_1.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddJobBookingView">
+
+    <ScrollViewer ScrollViewer.VerticalScrollBarVisibility="Auto">
+    <Grid Background="AliceBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Background="AliceBlue" >
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*" />
+                    <ColumnDefinition Width="300" />
+                </Grid.ColumnDefinitions>
+                <Label  FontFamily="Calibri Light" Margin="10,0,0,0" Content="Add New Job-Booking" FontSize="32" FontWeight="ExtraBold" Foreground="OrangeRed" Background="AliceBlue" />
+            </Grid>
+        </StackPanel>
+        <StackPanel Grid.Row="2">
+            <Grid >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100" />
+                    <ColumnDefinition Width="300" />
+                    <ColumnDefinition Width="100" />
+                    <ColumnDefinition Width="*" />
+
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="3" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="3" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="3" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="3" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="3" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="3" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="3" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="3" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="3" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="3" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="3" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="*" />
+
+
+                </Grid.RowDefinitions>
+
+                <Label Content="Client ID : " Grid.Row="0"  Grid.Column="0" ></Label>
+                <TextBox Text="{Binding JobBooking.ClientID, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                         Grid.Row ="0" Grid.Column="1" />
+
+                <Label Content="Booking Date : " Grid.Row="2"  Grid.Column="0" ></Label>
+                <TextBox  Grid.Row ="2" Grid.Column="1" Text="{Binding JobBooking.JobBookingDate, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                <Label Content="Start Time : " Grid.Row="4"  Grid.Column="0" ></Label>
+                <TextBox  Grid.Row ="4" Grid.Column="1" Text="{Binding JobBooking.JobStartTime, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                <Label Content="End Time : " Grid.Row="6"  Grid.Column="0" ></Label>
+                <TextBox  Grid.Row ="6" Grid.Column="1" Text="{Binding JobBooking.JobEndTime, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                <Label Content="Skill : " Grid.Row="8"  Grid.Column="0" ></Label>
+                <TextBox  Grid.Row ="8" Grid.Column="1" Text="{Binding JobBooking.SkillName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                <Label Content="Address : " Grid.Row="10"  Grid.Column="0" ></Label>
+                <TextBox  Grid.Row ="10" Grid.Column="1" Text="{Binding JobBooking.Address, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                <Label Content="Suburb : " Grid.Row="12"  Grid.Column="0" ></Label>
+                <TextBox  Grid.Row ="12" Grid.Column="1" Text="{Binding JobBooking.Suburb, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                <Label Content="PostCode : " Grid.Row="14"  Grid.Column="0" ></Label>
+                <TextBox  Grid.Row ="14" Grid.Column="1" Text="{Binding JobBooking.PostCode, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                <Label Content="State : " Grid.Row="16"  Grid.Column="0" ></Label>
+                <TextBox  Grid.Row ="16" Grid.Column="1" Text="{Binding JobBooking.State, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+               
+                <Label Content="Job Desc : " Grid.Row="18"  Grid.Column="0" ></Label>
+                <TextBox  Grid.Row ="18" Grid.Column="1" Text="{Binding JobBooking.JobDescription, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+
+                    <Label Content="      SEARCH CLIENT" Background="#FF8DC7DC" Grid.Row="0"  Grid.Column="3" ></Label>
+
+                <Button  Command="{Binding SearchCommand}" x:Name="btnSearchCustomer" Margin="5,5,5,5" 
+                         Grid.Row="6" Grid.Column="2" FontSize="12" Content="Search" Background="#FF5ED620"
+                         Foreground="White" Height="20" 
+                         VerticalAlignment="Top"  />
+
+                <Label Content="First Name:" Background="#FFF4E2D2" Grid.Row="2"  Grid.Column="2" ></Label>
+                <Label Content="Last Name:" Background="#FFF4E2D2" Grid.Row="4"  Grid.Column="2" ></Label>
+
+                <TextBox Grid.Row ="2" Grid.Column="4" Text="{Binding SelectedClient.CFName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                <TextBox Grid.Row ="4" Grid.Column="4" Text="{Binding SelectedClient.CLName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+
+                <DataGrid Background="#FFF4E2D2" ItemsSource="{Binding SearchClients, Mode=TwoWay}" SelectedItem="{Binding SelectedCustomer, Mode=TwoWay}" 
+                          x:Name="dgSearchCustomers" Grid.Row="5" Grid.Column="3"  
+                          Margin="5,10,10,5"  Height="140" Grid.RowSpan="10" Grid.ColumnSpan="2">
+
+
+                </DataGrid>
+
+
+                    <StackPanel Grid.Row="20"  Grid.ColumnSpan="5" Background="#FF8DC7DC" >
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*" />
+                            <ColumnDefinition Width="1*" />
+                            <ColumnDefinition Width="1*" />
+                        </Grid.ColumnDefinitions>
+                        <Button  Command="{Binding FindCommand}" x:Name="btnFindSessions" Margin="5,5,5,0" 
+                                 FontSize="20" Content="FIND SESSIONS"                                  
+                                 Height="31" VerticalAlignment="Top" Click="btnFindSessions_Click" IsEnabled="True" />
+                        <Button  x:Name="btnClear" Margin="5,5,5,5" FontSize="20" 
+                                 Content="CLEAR" Grid.Column="1" />
+                        <Button  x:Name="btnBackToJobBookingManagement" Margin="5,5,5,5" 
+                                 FontSize="20" 
+                                 Content="CANCEL" Grid.Column="2" Click="btnBackToJobBookingManagement_Click" />
+                    </Grid>
+                </StackPanel>
+
+                <Grid Grid.Row="22"  Grid.ColumnSpan="6">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="132*" />
+                        <ColumnDefinition Width="134*" />
+                        <ColumnDefinition Width="133*" />
+                        <ColumnDefinition Width="134*" />
+                        <ColumnDefinition Width="134*" />
+                        <ColumnDefinition Width="133*" />
+                    </Grid.ColumnDefinitions>
+
+                    <DataGrid ItemsSource="{Binding AvailableSessions}" SelectedItem="{Binding SelectedSession}" x:Name="dgAvailableSessions"  Grid.ColumnSpan="5" Margin="5,10,10.2,11"
+                           ></DataGrid>
+                        <Button x:Name="btnConfirm" Grid.Column="5"  Content="CONFIRM &#xD;&#xA; SESSION" Command="{Binding ConfirmCommand}" Margin="4.8,5,5,9.4" FontSize="14" IsEnabled="false" Click="btnConfirm_Click" Background="#FF5ED620"/>
+                </Grid>
+
+
+
+            </Grid>
+        </StackPanel>
+    </Grid>
+    </ScrollViewer>
+</Page>

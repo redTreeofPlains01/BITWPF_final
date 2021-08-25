@@ -1,0 +1,103 @@
+2020-11-16 14:54:34.4245 ERROR Invalid column name 'contractoridID'.
+Invalid column name 'skill'.
+2020-11-16 14:56:47.6674 ERROR Incorrect syntax near '.'.
+2020-11-16 14:57:24.3168 ERROR Incorrect syntax near '.'.
+2020-11-16 14:58:35.6824 ERROR Incorrect syntax near '.'.
+2020-11-16 15:01:04.4092 ERROR Incorrect syntax near '.'.
+2020-11-16 15:02:50.9799 ERROR Invalid column name 'contractoridID'.
+Invalid column name 'skill'.
+2020-11-16 15:07:19.7024 ERROR Invalid column name 'contractoridID'.
+Invalid column name 'skill'.
+2020-11-16 15:19:53.5630 ERROR Incorrect syntax near '.'.
+2020-11-16 15:25:36.1302 ERROR Incorrect syntax near '.'.
+2020-11-16 15:27:24.5536 ERROR Incorrect syntax near '.'.
+2020-11-16 15:29:10.1074 ERROR The multi-part identifier "a.availabilityid" could not be bound.
+Invalid column name 'availabilityid'.
+2020-11-16 20:54:53.1438 ERROR Cannot open database "BITService_HGK_201001" requested by the login. The login failed.
+Login failed for user 'DESKTOP-OEF5ITS\Lenovo'.
+2020-11-17 13:23:12.8728 ERROR Invalid column name 'Linux'.
+2020-11-17 14:52:54.6571 ERROR Invalid column name 'Linux'.
+2020-11-17 15:42:17.0405 ERROR Could not find stored procedure 'AllAvailableContrSessions(@date,@desStartTime,@desEndTime,@skill)'.
+2020-11-17 15:44:51.7474 ERROR Could not find stored procedure 'AllAvailableContrSessions(@date,@desStartTime,@desEndTime,@skill)'.
+2020-11-17 15:47:45.5363 ERROR Could not find stored procedure 'dbo.AllAvailableContrSessions(@date,@desStartTime,@desEndTime,@skill)'.
+2020-11-18 10:15:11.4283 ERROR Could not find stored procedure 'AllAvailableContrSessions(@date,@desStartTime,@desEndTime,@skill)'.
+2020-11-18 10:29:10.7192 ERROR Could not find stored procedure 'AllAvailableContrSessions(@date,@desStartTime,@desEndTime,@skill)'.
+2020-11-18 10:33:31.7484 ERROR Could not find stored procedure 'AllAvailableContrSessions(@date,@desStartTime,@desEndTime,@skill)'.
+2020-11-18 10:38:55.5809 ERROR Procedure or function 'AllAvailableContrSessions' expects parameter '@desireddate', which was not supplied.
+2020-11-18 10:43:07.6568 ERROR Could not find stored procedure 'AllAvailableContrSessions(@desireddate,@desiredstartime,@desiredendTime,@skillname)'.
+2020-11-18 10:53:08.3727 ERROR Procedure or function 'AllAvailableContrSessions' expects parameter '@skillname', which was not supplied.
+2020-11-18 12:04:58.1372 ERROR Invalid column name 'address'.
+Invalid column name 'suburb'.
+Invalid column name 'postcode'.
+Invalid column name 'state'.
+2020-11-18 12:20:44.5745 ERROR The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+2020-11-18 12:43:22.7565 ERROR The INSERT statement conflicted with the FOREIGN KEY constraint "Staff_JobBooking_fk". The conflict occurred in database "BITService_HGK_201102", table "dbo.Staff", column 'staffid'.
+The statement has been terminated.
+2020-11-18 12:52:48.7994 ERROR The INSERT statement conflicted with the FOREIGN KEY constraint "Client_JobBooking_fk". The conflict occurred in database "BITService_HGK_201102", table "dbo.Client", column 'clientid'.
+The statement has been terminated.
+2020-11-20 12:16:06.8637 ERROR The multi-part identifier "BitServices_version_1.Models.Skill" could not be bound.
+2020-11-20 12:25:55.2517 ERROR The multi-part identifier "BitServices_version_1.Models.Skill" could not be bound.
+2020-11-20 12:28:10.8342 ERROR String or binary data would be truncated.
+The statement has been terminated.
+2020-11-20 12:30:44.3539 ERROR String or binary data would be truncated.
+The statement has been terminated.
+2020-11-20 12:42:29.5960 ERROR String or binary data would be truncated.
+The statement has been terminated.
+2020-11-20 12:45:45.7922 ERROR String or binary data would be truncated.
+The statement has been terminated.
+2020-11-20 13:02:10.7112 ERROR The INSERT statement conflicted with the FOREIGN KEY constraint "Skills_ContractorSkills_fk". The conflict occurred in database "BITService_HGK_201102", table "dbo.Skills", column 'skillname'.
+The statement has been terminated.
+2020-11-20 13:03:06.0884 ERROR The INSERT statement conflicted with the FOREIGN KEY constraint "Skills_ContractorSkills_fk". The conflict occurred in database "BITService_HGK_201102", table "dbo.Skills", column 'skillname'.
+The statement has been terminated.
+2020-11-20 13:08:07.5916 ERROR The INSERT statement conflicted with the FOREIGN KEY constraint "Skills_ContractorSkills_fk". The conflict occurred in database "BITService_HGK_201102", table "dbo.Skills", column 'skillname'.
+The statement has been terminated.
+2020-11-20 13:11:26.5459 ERROR Procedure or function 'AddSkill' expects parameter '@skillname', which was not supplied.
+2020-11-20 13:12:00.2648 ERROR Procedure or function 'AddSkill' expects parameter '@skillname', which was not supplied.
+2020-11-20 14:06:38.4710 ERROR The INSERT statement conflicted with the FOREIGN KEY constraint "Skills_ContractorSkills_fk". The conflict occurred in database "BITService_HGK_201102", table "dbo.Skills", column 'skillname'.
+The statement has been terminated.
+2020-11-20 14:13:55.2986 ERROR The INSERT statement conflicted with the FOREIGN KEY constraint "Skills_ContractorSkills_fk". The conflict occurred in database "BITService_HGK_201102", table "dbo.Skills", column 'skillname'.
+The statement has been terminated.
+2020-11-20 14:14:53.2048 ERROR Procedure or function 'AddSkill' expects parameter '@skillname', which was not supplied.
+2020-11-20 14:15:41.0485 ERROR The INSERT statement conflicted with the FOREIGN KEY constraint "Skills_ContractorSkills_fk". The conflict occurred in database "BITService_HGK_201102", table "dbo.Skills", column 'skillname'.
+The statement has been terminated.
+2020-11-20 14:30:11.6259 ERROR Procedure or function 'AddSkill' expects parameter '@skillname', which was not supplied.
+2020-11-20 14:31:32.0150 ERROR The INSERT statement conflicted with the FOREIGN KEY constraint "Skills_ContractorSkills_fk". The conflict occurred in database "BITService_HGK_201102", table "dbo.Skills", column 'skillname'.
+The statement has been terminated.
+2020-11-20 16:23:46.4105 ERROR The INSERT statement conflicted with the FOREIGN KEY constraint "Client_JobBooking_fk". The conflict occurred in database "BITService_HGK_201102", table "dbo.Client", column 'clientid'.
+The statement has been terminated.
+2020-11-22 21:55:20.3458 ERROR The INSERT statement conflicted with the FOREIGN KEY constraint "Skills_ContractorSkills_fk". The conflict occurred in database "BITService_HGK_201102", table "dbo.Skills", column 'skillname'.
+The statement has been terminated.
+2020-11-23 09:40:27.0582 ERROR The INSERT statement conflicted with the FOREIGN KEY constraint "Skills_ContractorSkills_fk". The conflict occurred in database "BITService_HGK_201102", table "dbo.Skills", column 'skillname'.
+The statement has been terminated.
+2020-11-23 09:53:44.8117 ERROR The INSERT statement conflicted with the FOREIGN KEY constraint "Skills_ContractorSkills_fk". The conflict occurred in database "BITService_HGK_201102", table "dbo.Skills", column 'skillname'.
+The statement has been terminated.
+2020-11-23 09:57:55.2038 ERROR The INSERT statement conflicted with the FOREIGN KEY constraint "Skills_ContractorSkills_fk". The conflict occurred in database "BITService_HGK_201102", table "dbo.Skills", column 'skillname'.
+The statement has been terminated.
+2020-11-23 10:02:29.8109 ERROR The INSERT statement conflicted with the FOREIGN KEY constraint "Skills_ContractorSkills_fk". The conflict occurred in database "BITService_HGK_201102", table "dbo.Skills", column 'skillname'.
+The statement has been terminated.
+2020-11-23 10:07:55.2226 ERROR The INSERT statement conflicted with the FOREIGN KEY constraint "Skills_ContractorSkills_fk". The conflict occurred in database "BITService_HGK_201102", table "dbo.Skills", column 'skillname'.
+The statement has been terminated.
+2020-11-23 10:09:33.6697 ERROR The INSERT statement conflicted with the FOREIGN KEY constraint "Skills_ContractorSkills_fk". The conflict occurred in database "BITService_HGK_201102", table "dbo.Skills", column 'skillname'.
+The statement has been terminated.
+2020-11-23 10:15:46.3753 ERROR The INSERT statement conflicted with the FOREIGN KEY constraint "Skills_ContractorSkills_fk". The conflict occurred in database "BITService_HGK_201102", table "dbo.Skills", column 'skillname'.
+The statement has been terminated.
+2020-11-23 10:17:57.8478 ERROR The INSERT statement conflicted with the FOREIGN KEY constraint "Skills_ContractorSkills_fk". The conflict occurred in database "BITService_HGK_201102", table "dbo.Skills", column 'skillname'.
+The statement has been terminated.
+2020-11-23 12:01:23.6929 ERROR Invalid object name 'Skill'.
+2020-11-23 12:04:11.2629 ERROR Invalid column name 'description'.
+2020-11-23 13:08:34.4779 ERROR Cannot insert the value NULL into column 'password', table 'BITService_HGK_201102.dbo.Client'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+2020-11-23 13:19:42.7253 ERROR Cannot insert the value NULL into column 'password', table 'BITService_HGK_201102.dbo.Client'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+2020-11-23 13:23:25.5801 ERROR Incorrect syntax near 'tristanm@email'.
+2020-11-23 13:25:43.3000 ERROR The multi-part identifier "fayed@email.com" could not be bound.
+2020-11-24 16:35:08.0231 ERROR Incorrect syntax near the keyword 'from'.
+2020-11-24 17:08:53.5060 ERROR Procedure or function 'AddNewLocAndBooking' expects parameter '@jobdescription', which was not supplied.
+2020-11-24 17:40:15.6996 ERROR Invalid column name 'jobbokkingid'.
+2020-11-24 17:42:05.3719 ERROR Procedure or function 'AddSkill' expects parameter '@skillname', which was not supplied.
+2020-11-24 17:46:27.2409 ERROR Procedure or function 'AddSkill' expects parameter '@skillname', which was not supplied.
+2020-11-30 12:10:50.0171 ERROR Cannot open database "BITService_HGK_201102" requested by the login. The login failed.
+Login failed for user 'DESKTOP-OEF5ITS\Lenovo'.
+2020-12-05 11:42:51.4861 ERROR Cannot open database "BITService_HGK_201102" requested by the login. The login failed.
+Login failed for user 'gkh-PC\gkh'.

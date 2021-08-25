@@ -1,0 +1,595 @@
+C:\Users\Lenovo\Desktop\Gene\BitServices_version_1\BitServices_version_1\obj\Debug\BitServices_version_1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Gene\BitServices_version_1\BitServices_version_1\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\Gene\BitServices_version_1\BitServices_version_1\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\Gene\BitServices_version_1\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\Gene\BitServices_version_1\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.lref
+F:\1 Pr_vi\CLIENT server App\BitServices_0400\BitServices_version_1\obj\Debug\BitServices_version_1.csprojAssemblyReference.cache
+F:\1 Pr_vi\CLIENT server App\BitServices_0400\BitServices_version_1\obj\Debug\MainWindow.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_0400\BitServices_version_1\obj\Debug\Views\AddClientView.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_0400\BitServices_version_1\obj\Debug\Views\AddContractorView.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_0400\BitServices_version_1\obj\Debug\Views\AddJobBookingView.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_0400\BitServices_version_1\obj\Debug\Views\AddSkill.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_0400\BitServices_version_1\obj\Debug\Views\AddStaffView.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_0400\BitServices_version_1\obj\Debug\Views\ClientManagement.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_0400\BitServices_version_1\obj\Debug\Views\ContractorManagement.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_0400\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_0400\BitServices_version_1\obj\Debug\Views\JobBookingManagement.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_0400\BitServices_version_1\obj\Debug\Views\LogIn.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_0400\BitServices_version_1\obj\Debug\Views\SkillManagement.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_0400\BitServices_version_1\obj\Debug\Views\StaffManagement.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_0400\BitServices_version_1\obj\Debug\App.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_0400\BitServices_version_1\obj\Debug\BitServices_version_1_Content.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_0400\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.cache
+F:\1 Pr_vi\CLIENT server App\BitServices_0400\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddClientView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddContractorView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddJobBookingView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddSkill.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddStaffView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\ClientManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\ContractorManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\JobBookingManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\LogIn.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\SkillManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\StaffManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1_Content.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\bin\Debug\NLog.config
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\bin\Debug\BitServices_version_1.exe.config
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\bin\Debug\BitServices_version_1.exe
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\bin\Debug\BitServices_version_1.pdb
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\bin\Debug\NLog.dll
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\bin\Debug\NLog.xml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddClientView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddContractorView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddJobBookingView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddSkill.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddStaffView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\ClientManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\ContractorManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\JobBookingManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\LogIn.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\SkillManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\StaffManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1.g.resources
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1.exe
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1.pdb
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\bin\Debug\NLog.config
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\bin\Debug\BitServices_version_1.exe.config
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\bin\Debug\BitServices_version_1.exe
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\bin\Debug\BitServices_version_1.pdb
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\bin\Debug\NLog.dll
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\bin\Debug\NLog.xml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1.csprojAssemblyReference.cache
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\MainWindow.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddClientView.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddContractorView.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddJobBookingView.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddSkill.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddStaffView.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\ClientManagement.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\ContractorManagement.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\JobBookingManagement.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\LogIn.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\SkillManagement.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\StaffManagement.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\App.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1_Content.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.cache
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.lref
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\MainWindow.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddClientView.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddContractorView.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddJobBookingView.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddSkill.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\AddStaffView.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\ClientManagement.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\ContractorManagement.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\JobBookingManagement.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\LogIn.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\SkillManagement.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\Views\StaffManagement.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1.g.resources
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1.Properties.Resources.resources
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.GenerateResource.cache
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CoreCompileInputs.cache
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CopyComplete
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1.exe
+E:\1 Pr_vi\CLIENT server App\BitServices_20_0802\BitServices_version_1\obj\Debug\BitServices_version_1.pdb
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\bin\Debug\NLog.config
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\bin\Debug\BitServices_version_1.exe.config
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\bin\Debug\BitServices_version_1.exe
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\bin\Debug\BitServices_version_1.pdb
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\bin\Debug\NLog.dll
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\bin\Debug\NLog.xml
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1.csprojAssemblyReference.cache
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\MainWindow.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddClientView.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddContractorView.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddJobBookingView.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddSkill.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddStaffView.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\ClientManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\ContractorManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\JobBookingManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\LogIn.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\SkillManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\StaffManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\App.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1_Content.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.cache
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.lref
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\MainWindow.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddClientView.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddContractorView.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddJobBookingView.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddSkill.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddStaffView.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\ClientManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\ContractorManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\JobBookingManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\LogIn.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\SkillManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\StaffManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1.g.resources
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1.Properties.Resources.resources
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.GenerateResource.cache
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CoreCompileInputs.cache
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CopyComplete
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1.exe
+C:\Users\gkh\Desktop\vi\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1.pdb
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\bin\Debug\NLog.config
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\bin\Debug\BitServices_version_1.exe.config
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\bin\Debug\BitServices_version_1.exe
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\bin\Debug\BitServices_version_1.pdb
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\bin\Debug\NLog.dll
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\bin\Debug\NLog.xml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddClientView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddContractorView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddJobBookingView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddSkill.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddStaffView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\ClientManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\ContractorManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\JobBookingManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\LogIn.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\SkillManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\StaffManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1_Content.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddClientView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddContractorView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddJobBookingView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddSkill.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\AddStaffView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\ClientManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\ContractorManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\JobBookingManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\LogIn.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\SkillManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\Views\StaffManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1.g.resources
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1.exe
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0803\BitServices_version_1\obj\Debug\BitServices_version_1.pdb
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\bin\Debug\NLog.config
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\bin\Debug\BitServices_version_1.exe.config
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\bin\Debug\BitServices_version_1.exe
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\bin\Debug\BitServices_version_1.pdb
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\bin\Debug\NLog.dll
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\bin\Debug\NLog.xml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\BitServices_version_1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\AddClientView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\AddContractorView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\AddJobBookingView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\AddSkill.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\AddStaffView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\ClientManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\ContractorManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\JobBookingManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\LogIn.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\SkillManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\StaffManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\BitServices_version_1_Content.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\AddClientView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\AddContractorView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\AddJobBookingView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\AddSkill.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\AddStaffView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\ClientManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\ContractorManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\JobBookingManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\LogIn.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\SkillManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\Views\StaffManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\BitServices_version_1.g.resources
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\BitServices_version_1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\BitServices_version_1.exe
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0805\BitServices_version_1\obj\Debug\BitServices_version_1.pdb
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\bin\Debug\NLog.config
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\bin\Debug\BitServices_version_1.exe.config
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\bin\Debug\BitServices_version_1.exe
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\bin\Debug\BitServices_version_1.pdb
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\bin\Debug\NLog.dll
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\bin\Debug\NLog.xml
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1.csprojAssemblyReference.cache
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\MainWindow.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddClientView.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddContractorView.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddJobBookingView.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddSkill.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddStaffView.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\ClientManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\ContractorManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\JobBookingManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\LogIn.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\SkillManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\StaffManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\App.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1_Content.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.cache
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.lref
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\MainWindow.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddClientView.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddContractorView.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddJobBookingView.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddSkill.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddStaffView.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\ClientManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\ContractorManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\JobBookingManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\LogIn.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\SkillManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\StaffManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1.g.resources
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1.Properties.Resources.resources
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.GenerateResource.cache
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CoreCompileInputs.cache
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CopyComplete
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1.exe
+C:\Users\gkh\Desktop\vi\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1.pdb
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\bin\Debug\NLog.config
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\bin\Debug\BitServices_version_1.exe.config
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\bin\Debug\BitServices_version_1.exe
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\bin\Debug\BitServices_version_1.pdb
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\bin\Debug\NLog.dll
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\bin\Debug\NLog.xml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddClientView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddContractorView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddJobBookingView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddSkill.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddStaffView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\ClientManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\ContractorManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\JobBookingManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\LogIn.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\SkillManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\StaffManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1_Content.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddClientView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddContractorView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddJobBookingView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddSkill.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\AddStaffView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\ClientManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\ContractorManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\JobBookingManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\LogIn.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\SkillManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\Views\StaffManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1.g.resources
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1.exe
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0806\BitServices_version_1\obj\Debug\BitServices_version_1.pdb
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\bin\Debug\NLog.config
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\bin\Debug\BitServices_version_1.exe.config
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\bin\Debug\BitServices_version_1.exe
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\bin\Debug\BitServices_version_1.pdb
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\bin\Debug\NLog.dll
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\bin\Debug\NLog.xml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\BitServices_version_1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\AddClientView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\AddContractorView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\AddJobBookingView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\AddSkill.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\AddStaffView.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\ClientManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\ContractorManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\JobBookingManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\LogIn.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\SkillManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\StaffManagement.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\BitServices_version_1_Content.g.cs
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\AddClientView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\AddContractorView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\AddJobBookingView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\AddSkill.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\AddStaffView.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\ClientManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\ContractorManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\JobBookingManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\LogIn.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\SkillManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\Views\StaffManagement.baml
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\BitServices_version_1.g.resources
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\BitServices_version_1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\BitServices_version_1.exe
+C:\Users\Lenovo\Desktop\C#\BitServices_20_0808\BitServices_version_1\obj\Debug\BitServices_version_1.pdb
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\bin\Debug\NLog.config
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\bin\Debug\BitServices_version_1.exe.config
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\bin\Debug\BitServices_version_1.exe
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\bin\Debug\BitServices_version_1.pdb
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\bin\Debug\NLog.dll
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\bin\Debug\NLog.xml
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\BitServices_version_1.csprojAssemblyReference.cache
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\MainWindow.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\AddClientView.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\AddContractorView.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\AddJobBookingView.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\AddSkill.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\AddStaffView.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\ClientManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\ContractorManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\JobBookingManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\LogIn.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\SkillManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\StaffManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\App.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\BitServices_version_1_Content.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.cache
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.lref
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\MainWindow.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\AddClientView.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\AddContractorView.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\AddJobBookingView.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\AddSkill.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\AddStaffView.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\ClientManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\ContractorManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\JobBookingManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\LogIn.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\SkillManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\Views\StaffManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\BitServices_version_1.g.resources
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\BitServices_version_1.Properties.Resources.resources
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.GenerateResource.cache
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CoreCompileInputs.cache
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CopyComplete
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\BitServices_version_1.exe
+C:\Users\gkh\Desktop\vi\BitServices_20_1101\BitServices_version_1\obj\Debug\BitServices_version_1.pdb
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\bin\Debug\NLog.config
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\bin\Debug\BitServices_version_1.exe.config
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\bin\Debug\BitServices_version_1.exe
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\bin\Debug\BitServices_version_1.pdb
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\bin\Debug\NLog.dll
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\bin\Debug\NLog.xml
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1.csprojAssemblyReference.cache
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\MainWindow.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddClientView.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddContractorView.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddJobBookingView.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddSkill.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddStaffView.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\ClientManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\ContractorManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\JobBookingManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\LogIn.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\SkillManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\StaffManagement.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\App.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1_Content.g.cs
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.cache
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.lref
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\MainWindow.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddClientView.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddContractorView.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddJobBookingView.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddSkill.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddStaffView.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\ClientManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\ContractorManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\JobBookingManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\LogIn.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\SkillManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\StaffManagement.baml
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1.g.resources
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1.Properties.Resources.resources
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.GenerateResource.cache
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CoreCompileInputs.cache
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CopyComplete
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1.exe
+C:\Users\gkh\Desktop\vi\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1.pdb
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\bin\Debug\NLog.config
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\bin\Debug\BitServices_version_1.exe.config
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\bin\Debug\BitServices_version_1.exe
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\bin\Debug\BitServices_version_1.pdb
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\bin\Debug\NLog.dll
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\bin\Debug\NLog.xml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1.csprojAssemblyReference.cache
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\MainWindow.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddClientView.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddContractorView.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddJobBookingView.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddSkill.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddStaffView.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\ClientManagement.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\ContractorManagement.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\JobBookingManagement.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\LogIn.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\SkillManagement.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\StaffManagement.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\App.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1_Content.g.cs
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.cache
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.lref
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\MainWindow.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddClientView.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddContractorView.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddJobBookingView.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddSkill.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\AddStaffView.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\ClientManagement.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\ContractorManagement.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\JobBookingManagement.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\LogIn.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\SkillManagement.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\Views\StaffManagement.baml
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1.g.resources
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1.Properties.Resources.resources
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.GenerateResource.cache
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CoreCompileInputs.cache
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CopyComplete
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1.exe
+E:\1 Pr_vi\CLIENT server App\BitServices_20_1102\BitServices_version_1\obj\Debug\BitServices_version_1.pdb
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\bin\Debug\NLog.config
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\bin\Debug\BitServices_version_1.exe.config
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\bin\Debug\BitServices_version_1.exe
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\bin\Debug\BitServices_version_1.pdb
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\bin\Debug\NLog.dll
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\bin\Debug\NLog.xml
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1.csprojAssemblyReference.cache
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\MainWindow.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddClientView.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddContractorView.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddJobBookingView.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddSkill.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddStaffView.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\ClientManagement.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\ContractorManagement.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\JobBookingManagement.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\LogIn.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\SkillManagement.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\StaffManagement.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\App.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1_Content.g.cs
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.cache
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.lref
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\MainWindow.baml
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddClientView.baml
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddContractorView.baml
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddJobBookingView.baml
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddSkill.baml
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddStaffView.baml
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\ClientManagement.baml
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\ContractorManagement.baml
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.baml
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\JobBookingManagement.baml
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\LogIn.baml
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\SkillManagement.baml
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\StaffManagement.baml
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1.g.resources
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1.Properties.Resources.resources
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.GenerateResource.cache
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CoreCompileInputs.cache
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CopyComplete
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1.exe
+F:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1.pdb
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\bin\Debug\NLog.config
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\bin\Debug\BitServices_version_1.exe.config
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\bin\Debug\BitServices_version_1.exe
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\bin\Debug\BitServices_version_1.pdb
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\bin\Debug\NLog.dll
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\bin\Debug\NLog.xml
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1.csprojAssemblyReference.cache
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\MainWindow.g.cs
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddClientView.g.cs
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddContractorView.g.cs
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddJobBookingView.g.cs
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddSkill.g.cs
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddStaffView.g.cs
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\ClientManagement.g.cs
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\ContractorManagement.g.cs
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.g.cs
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\JobBookingManagement.g.cs
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\LogIn.g.cs
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\SkillManagement.g.cs
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\StaffManagement.g.cs
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\App.g.cs
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1_Content.g.cs
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.cache
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.lref
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\MainWindow.baml
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddClientView.baml
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddContractorView.baml
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddJobBookingView.baml
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddSkill.baml
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\AddStaffView.baml
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\ClientManagement.baml
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\ContractorManagement.baml
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.baml
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\JobBookingManagement.baml
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\LogIn.baml
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\SkillManagement.baml
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\Views\StaffManagement.baml
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1.g.resources
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1.Properties.Resources.resources
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.GenerateResource.cache
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CoreCompileInputs.cache
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CopyComplete
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1.exe
+G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1.pdb
