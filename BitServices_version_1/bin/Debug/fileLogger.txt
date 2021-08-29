@@ -101,3 +101,5 @@ The statement has been terminated.
 Login failed for user 'DESKTOP-OEF5ITS\Lenovo'.
 2020-12-05 11:42:51.4861 ERROR Cannot open database "BITService_HGK_201102" requested by the login. The login failed.
 Login failed for user 'gkh-PC\gkh'.
+2021-08-29 12:09:26.8382 ERROR Cannot open database "BITService_HGK_201102" requested by the login. The login failed.
+Login failed for user 'gkh-PC\gkh'.

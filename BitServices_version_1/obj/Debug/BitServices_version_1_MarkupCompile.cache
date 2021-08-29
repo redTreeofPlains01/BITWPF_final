@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\
 BitServices_version_1
 none
 false
 DEBUG;TRACE
-G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\App.xaml
+D:\GitHub\BITWPF_final\BitServices_version_1\App.xaml
 131377844990
 1-2138471434
 501075714201
-19500643769
+192024157534
 MainWindow.xaml;Views\AddClientView.xaml;Views\AddContractorView.xaml;Views\AddJobBookingView.xaml;Views\AddSkill.xaml;Views\AddStaffView.xaml;Views\ClientManagement.xaml;Views\ContractorManagement.xaml;Views\ContractorSkillManagement.xaml;Views\JobBookingManagement.xaml;Views\LogIn.xaml;Views\SkillManagement.xaml;Views\StaffManagement.xaml;
 
 False

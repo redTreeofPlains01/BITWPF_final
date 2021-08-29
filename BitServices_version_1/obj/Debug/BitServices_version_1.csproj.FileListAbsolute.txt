@@ -593,3 +593,47 @@ G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_
 G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CopyComplete
 G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1.exe
 G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\BitServices_version_1\obj\Debug\BitServices_version_1.pdb
+D:\GitHub\BITWPF_final\BitServices_version_1\bin\Debug\NLog.config
+D:\GitHub\BITWPF_final\BitServices_version_1\bin\Debug\BitServices_version_1.exe.config
+D:\GitHub\BITWPF_final\BitServices_version_1\bin\Debug\BitServices_version_1.exe
+D:\GitHub\BITWPF_final\BitServices_version_1\bin\Debug\BitServices_version_1.pdb
+D:\GitHub\BITWPF_final\BitServices_version_1\bin\Debug\NLog.dll
+D:\GitHub\BITWPF_final\BitServices_version_1\bin\Debug\NLog.xml
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.AssemblyReference.cache
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\MainWindow.g.cs
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\AddClientView.g.cs
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\AddContractorView.g.cs
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\AddJobBookingView.g.cs
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\AddSkill.g.cs
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\AddStaffView.g.cs
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\ClientManagement.g.cs
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\ContractorManagement.g.cs
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.g.cs
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\JobBookingManagement.g.cs
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\LogIn.g.cs
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\SkillManagement.g.cs
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\StaffManagement.g.cs
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\App.g.cs
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\BitServices_version_1_Content.g.cs
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.cache
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\BitServices_version_1_MarkupCompile.lref
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\MainWindow.baml
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\AddClientView.baml
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\AddContractorView.baml
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\AddJobBookingView.baml
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\AddSkill.baml
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\AddStaffView.baml
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\ClientManagement.baml
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\ContractorManagement.baml
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\ContractorSkillManagement.baml
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\JobBookingManagement.baml
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\LogIn.baml
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\SkillManagement.baml
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\Views\StaffManagement.baml
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\BitServices_version_1.g.resources
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\BitServices_version_1.Properties.Resources.resources
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.GenerateResource.cache
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CoreCompileInputs.cache
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\BitServices_version_1.csproj.CopyComplete
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\BitServices_version_1.exe
+D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\BitServices_version_1.pdb
