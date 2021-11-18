@@ -13,11 +13,10 @@ namespace BitServices_version_1.ViewModels
     {
         ObservableCollection<Client> _clients;
         private Client _selectedClient; //bring this functionality
-                                            //To be able to react to a button click event
-                                            //we must first of all  tell the applcation that 
-                                            //an event is occured at the Windows (View) level
-
-        //to the datagrid
+                     //To be able to react to a button click event
+                      //we must first of all  tell the applcation that 
+                       //an event is occured at the Windows (View) level
+                       //to the datagrid
 
         //Customers is the name of the collection that we are binding on our WPF
        
