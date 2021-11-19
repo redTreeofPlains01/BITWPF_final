@@ -103,3 +103,5 @@ Login failed for user 'DESKTOP-OEF5ITS\Lenovo'.
 Login failed for user 'gkh-PC\gkh'.
 2021-08-29 12:09:26.8382 ERROR Cannot open database "BITService_HGK_201102" requested by the login. The login failed.
 Login failed for user 'gkh-PC\gkh'.
+2021-11-19 11:40:54.4324 ERROR The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
