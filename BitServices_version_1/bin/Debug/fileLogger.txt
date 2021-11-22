@@ -105,3 +105,7 @@ Login failed for user 'gkh-PC\gkh'.
 Login failed for user 'gkh-PC\gkh'.
 2021-11-19 11:40:54.4324 ERROR The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
 The statement has been terminated.
+2021-11-22 13:37:50.1378 ERROR The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+2021-11-22 13:56:19.8872 ERROR The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.

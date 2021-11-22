@@ -45,7 +45,7 @@ namespace BitServices_version_1.ViewModels
             SQLHelper objHelper = new SQLHelper("BS");
             objHelper.ExecuteNonQuery(sqlStr);
             MessageBox.Show(String.Format("Client: {0} {1} Added", Client.FirstName, Client.LastName));
-
+            
         }
         public AddClientViewModel()
         {
