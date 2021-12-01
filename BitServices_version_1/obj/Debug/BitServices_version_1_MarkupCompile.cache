@@ -12,9 +12,9 @@ DEBUG;TRACE
 D:\GitHub Respos\BITWPF_final\BitServices_version_1\App.xaml
 131377844990
 1-2138471434
-51233354834
+501075714201
 191022853442
 MainWindow.xaml;Views\AddClientView.xaml;Views\AddContractorView.xaml;Views\AddJobBookingView.xaml;Views\AddSkill.xaml;Views\AddStaffView.xaml;Views\ClientManagement.xaml;Views\ContractorManagement.xaml;Views\ContractorSkillManagement.xaml;Views\JobBookingManagement.xaml;Views\LogIn.xaml;Views\SkillManagement.xaml;Views\StaffManagement.xaml;
 
-True
+False
 

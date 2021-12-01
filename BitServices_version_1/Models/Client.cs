@@ -35,7 +35,7 @@ namespace BitServices_version_1.Models
         //avoid the code behind event handlers
         private void OnPropertyChanged(string prop)
         {
-            if (PropertyChanged != null) //this is checking if we do have an event handler
+            if (PropertyChanged != null) //$$$$this is checking if we do have an event handler
             {
                 //PropertyChanged() is a delegate that will call an EventHandler
                 //depending on who is Subscribed to listen to this event
