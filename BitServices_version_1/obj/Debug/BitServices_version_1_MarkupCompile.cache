@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\
+C:\GitHub\BITWPF_final\BitServices_version_1\obj\Debug\
 BitServices_version_1
 none
 false
 DEBUG;TRACE
-D:\GitHub\BITWPF_final\BitServices_version_1\App.xaml
+C:\GitHub\BITWPF_final\BitServices_version_1\App.xaml
 131745918643
 1-183687082
 51402593324
-19-572807199
+19-504810786
 MainWindow.xaml;Views\AddClientView.xaml;Views\AddContractorView.xaml;Views\AddJobBookingView.xaml;Views\AddSkill.xaml;Views\AddStaffView.xaml;Views\ClientManagement.xaml;Views\ContractorManagement.xaml;Views\ContractorSkillManagement.xaml;Views\JobBookingManagement.xaml;Views\LogIn.xaml;Views\SkillManagement.xaml;Views\StaffManagement.xaml;
 
 True
