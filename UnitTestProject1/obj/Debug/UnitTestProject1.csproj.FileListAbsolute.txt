@@ -56,3 +56,32 @@ G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\UnitTestProject1\obj
 G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
 G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 G:\1 Pr_vi\CLIENT server App\BitServices_20_1102_FINAL_v1.1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\NLog.config
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\BitServices_version_1.exe
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\Castle.Core.dll
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\Moq.dll
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\NLog.dll
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\BitServices_version_1.pdb
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\BitServices_version_1.exe.config
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\Castle.Core.xml
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\Moq.xml
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\GitHub\BITWPF_final\UnitTestProject1\bin\Debug\NLog.xml
+C:\GitHub\BITWPF_final\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\GitHub\BITWPF_final\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\GitHub\BITWPF_final\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\GitHub\BITWPF_final\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\GitHub\BITWPF_final\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

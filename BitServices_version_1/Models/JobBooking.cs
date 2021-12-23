@@ -40,6 +40,7 @@ namespace BitServices_version_1.Models
         //this part is the magic code for your models to become Event oriented so
         //that you can now bypass WPF controls Event Handlers and due to that
         //avoid the code behind event handlers
+       
         private void OnPropertyChanged(string prop)
         {
             if (PropertyChanged != null) //this is checking if we do have an event handler
@@ -54,7 +55,7 @@ namespace BitServices_version_1.Models
             get { return _jobBookingId; }
             set { _jobBookingId = value; }
         }
-        public DateTime JobBookingDate //$$$$_This needs to match exactly to Binding in BookingManagemenbt.xaml
+        public DateTime JobBookingDate //$$$$_This needs to match exactly to Binding in BookingManagement.xaml
         {
             get { return _jobBookingDate; }
             set
@@ -64,8 +65,7 @@ namespace BitServices_version_1.Models
                 //the firstname is changed to something else
                 //   OnPropertyChanged("BookingDate");
 
-                //You can comment Inotfypropertchabged if you donlt want it changed
-
+                //You can comment Inotifypropertychanged if you don't want it changed
             }
         }
         public string JobStartTime
@@ -74,7 +74,7 @@ namespace BitServices_version_1.Models
             set
             {
                 _jobStartTime = value;
-                //   OnPropertyChanged("BookingTime");
+                //   OnPropertyChanged("JobStartTime");
             }
         }
         public string JobEndTime
@@ -83,7 +83,7 @@ namespace BitServices_version_1.Models
             set
             {
                 _jobEndTime = value;
-                //   OnPropertyChanged("BookingTime");
+                //   OnPropertyChanged("JobEndTime");
             }
         }
         public int ClientID
@@ -92,7 +92,7 @@ namespace BitServices_version_1.Models
             set
             {
                 _clientid = value;
-                // OnPropertyChanged("CustomerFName");
+                // OnPropertyChanged("ClientID");
             }
         }
         public int ContractorID
@@ -101,7 +101,7 @@ namespace BitServices_version_1.Models
             set
             {
                 _contractorid = value;
-                // OnPropertyChanged("CustomerFName");
+                // OnPropertyChanged("ContractorID");
             }
         }
         public int StaffID
@@ -110,7 +110,7 @@ namespace BitServices_version_1.Models
             set
             {
                 _staffid = value;
-                // OnPropertyChanged("CustomerFName");
+                // OnPropertyChanged("StaffID");
             }
         }
         public string JobDescription
@@ -119,7 +119,7 @@ namespace BitServices_version_1.Models
             set
             {
                 _jobDescription = value;
-                // OnPropertyChanged("CustomerFName");
+                 OnPropertyChanged("JobDescription");// (*) This seems to notify ObservableCollection List which is the view. So it changes the bookings view straight away when updating say. Then Secondly -> when update button is pressed(permananet chnage to database) it initiates again. But we cannot see any changes, becos view has already chnaged while typing the updates. 
             }
         }
 
@@ -131,7 +131,7 @@ namespace BitServices_version_1.Models
             set
             {
                 _clientFName = value;
-                // OnPropertyChanged("CustomerFName");
+                // OnPropertyChanged("ClientFName");
             }
         }
         public string ClientLName
@@ -140,7 +140,7 @@ namespace BitServices_version_1.Models
             set
             {
                 _clientLName = value;
-                //  OnPropertyChanged("CustomerLName");
+                //  OnPropertyChanged("ClientLName");
             }
         }
         public string ContractorFName
@@ -149,7 +149,7 @@ namespace BitServices_version_1.Models
             set
             {
                 _contractorFName = value;
-                // OnPropertyChanged("DriverFName");
+                // OnPropertyChanged("ContractorFName");
             }
         }
         public string ContractorLName
@@ -158,7 +158,7 @@ namespace BitServices_version_1.Models
             set
             {
                 _contractorLName = value;
-                // OnPropertyChanged("DriverLName");
+                // OnPropertyChanged("ContractorLName");
             }
         }
         public string Address
@@ -167,7 +167,7 @@ namespace BitServices_version_1.Models
             set
             {
                 _address = value;
-                OnPropertyChanged("Address");//
+                OnPropertyChanged("Address");
             }
         }
         public string Suburb
@@ -229,8 +229,8 @@ namespace BitServices_version_1.Models
         }
         public JobBooking(DataRow dr)
         {
-            //fill in all the properties using dr["columnname"] 
-            //$ummary: This is coming from Bookings
+            //Fill in all the properties using dr["columnname"] 
+            //$Summary: This is coming from Bookings
             JobBookingId = Convert.ToInt32(dr["jobbookingid"]);
             JobBookingDate = Convert.ToDateTime(dr["jobbookingdate"].ToString());
             JobStartTime = dr["jobstarttime"].ToString();

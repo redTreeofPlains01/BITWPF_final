@@ -32,6 +32,7 @@ namespace BitServices_version_1.Models
             objParams[3].Value = skillname;
 
 
+            //!!!!!!!!!!!!Stored Procedure for finding available session
             DataTable sessionsTable = objHelper.ExecuteSQL("AllAvailableContrSessions", objParams,true);
             foreach (DataRow dr in sessionsTable.Rows)
             {
