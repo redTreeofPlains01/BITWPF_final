@@ -110,3 +110,5 @@ The statement has been terminated.
 2021-11-22 13:56:19.8872 ERROR The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
 The statement has been terminated.
 2021-12-22 16:39:46.6814 ERROR Invalid column name 'conractorid'.
+2021-12-29 14:38:03.3318 ERROR Cannot open database "BITService_HGK_201102" requested by the login. The login failed.
+Login failed for user 'PC-GAMEMASTER\heeki'.

@@ -24,12 +24,14 @@
                 <Label  FontFamily="Calibri Light" Margin="10,0,0,0" Content="Job-Booking Management" FontSize="32" Foreground="OrangeRed" Background="AliceBlue" FontWeight="ExtraBold" />
             </Grid>
         </StackPanel>
-        <DataGrid SelectedItem="{Binding SelectedJobBooking}"                   
+        <DataGrid                  
                   ItemsSource="{Binding JobBookings, Mode=TwoWay}" 
+                  SelectedItem="{Binding SelectedJobBooking}"  
                   AutoGenerateColumns="false" Margin ="10, 10, 10, 10" 
                   Grid.Row="1" x:Name="dgJobBookings" 
                   ScrollViewer.HorizontalScrollBarVisibility="Visible" 
                   ScrollViewer.VerticalScrollBarVisibility="Visible" >
+            
             <DataGrid.Columns>
                 <DataGridTextColumn Binding="{Binding JobBookingId}" Header="JobID" Width="*"></DataGridTextColumn>
                 <DataGridTextColumn Binding="{Binding JobBookingDate}" Header="JobDate" Width="2*"></DataGridTextColumn>

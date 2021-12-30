@@ -57,6 +57,6 @@
         <Frame x:Name="contentFrame"  Grid.Row="1" Grid.Column="1" />
         
         
-        <Image Margin="0,300,20,41.4" Grid.Column="0" Source="logo.png" Stretch="Fill" Grid.Row="1"/>
+        <Image Margin="0,300,20,41.4" Grid.Column="0" Source="logo.png"  Grid.Row="1"/>
     </Grid>
 </Window>

@@ -48,7 +48,7 @@ namespace BitServices_version_1.Models
             DataTable jobBookingsTable = db.ExecuteSQL(sqlStr);
             foreach (DataRow dr in jobBookingsTable.Rows)
             {
-                //From Bookings>to Booking :This is going to Booking what was braught in from the dattabase 
+                //From Bookings>to Booking :This is going to Booking what was brought in from the dattabase 
                 JobBooking jobbooking = new JobBooking(dr);
                 this.Add(jobbooking);
             }

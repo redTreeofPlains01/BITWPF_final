@@ -12,7 +12,7 @@ using BitServices_version_1.DataAccessLayer;
 using BitServices_version_1.Models;
 
 /*US: as as staff I would like to submit a new booking for a custoemer for greater client servce
-1.key in all required details for new booking(Click find sessions after this- rememeber in FD a new booking row is not added yet)
+1.key in all required details for new booking(Click find sessions after this- remember in FD a new booking row is not added yet)
 2.find a contractor available and then confirm the booking with a contractor*/
 
 namespace BitServices_version_1.ViewModels
@@ -165,7 +165,7 @@ namespace BitServices_version_1.ViewModels
         }
         public void FindMethod()
         {
-            //will briung in all available sessions in the grid
+            //will bring in all available sessions in the grid
             //Grid is binded to the observable collection that this findMethod
             AvailableSessions allSessions = new AvailableSessions(JobBooking.JobBookingDate, 
                 JobBooking.JobStartTime, JobBooking.JobEndTime, JobBooking.SkillName);
@@ -196,8 +196,8 @@ namespace BitServices_version_1.ViewModels
 
         public void SearchMethod()
         {
-            //will briung in all available sessions in the grid
-            //Grid is binded to the observable collection that this findMethod
+            //will bring in all available sessions in the grid
+            //Grid is binded to the observable collection that this SearchMethod
             SearchClients allClients = new SearchClients(SelectedClient.CFName, SelectedClient.CLName);
             SearchClients = new ObservableCollection<SearchClient>(allClients);
         }
