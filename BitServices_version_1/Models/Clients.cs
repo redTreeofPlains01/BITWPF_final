@@ -7,12 +7,12 @@ using System.Data;
 using BitServices_version_1.DataAccessLayer;
 
 namespace BitServices_version_1.Models
-{ /* We will maintain a list class called Customers
-     * that maintains the list of Customers that is why we inherit this class
+{ /* We will maintain a list class called Clients
+     * that maintains the list of Clients that is why we inherit this class
      * from List class (.NET Framework class, List<T>, T stands for any C# class/Type)
      */
-    public class Clients : List<Client>//becuase Customers class has been inherited from List class
-                                  //it is already a empty list of type client
+    public class Clients : List<Client>//becuase Clients class has been inherited from List class
+     //it is already a empty list of type client
     {
         public Clients()
         {
@@ -23,7 +23,7 @@ namespace BitServices_version_1.Models
             foreach (DataRow dr in clientsTable.Rows)
             {
                 Client client = new Client(dr);
-                this.Add(client);//adding customers to the list 
+                this.Add(client);//adding Clients to the list 
 
             }
 

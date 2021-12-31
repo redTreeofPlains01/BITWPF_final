@@ -28,13 +28,11 @@ namespace BitServices_version_1.Views
             InitializeComponent();
             this.DataContext = new JobBookingViewModel();
         }
-
         private void btnAddNewJobBooking_Click(object sender, RoutedEventArgs e)
         {
             this.NavigationService.Navigate(new Uri("Views/AddJobBookingView.xaml",
                 UriKind.Relative));
         }
-
         private void btnUpdateJobBooking_Click(object sender, RoutedEventArgs e)
         {
             _confirm = false;
@@ -42,10 +40,7 @@ namespace BitServices_version_1.Views
         }
         private void UpdateButtons()
         {
-
-
             btnUpdateJobBooking.IsEnabled = _confirm;
-
         }
     }
 }

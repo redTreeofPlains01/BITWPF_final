@@ -73,11 +73,5 @@ namespace BitServices_version_1.ViewModels
             SQLHelper objHelper = new SQLHelper("BS");
             objHelper.ExecuteNonQuery(sqlStr);
         }
-
-
-
-
-
-
     }
 }

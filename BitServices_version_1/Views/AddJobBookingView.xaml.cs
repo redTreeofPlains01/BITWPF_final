@@ -20,7 +20,6 @@ namespace BitServices_version_1.Views
     /// Interaction logic for AddJobBookingView.xaml
     /// </summary>
     public partial class AddJobBookingView : Page
-
     {
         private bool _confirm;
 
@@ -29,13 +28,11 @@ namespace BitServices_version_1.Views
             InitializeComponent();
             this.DataContext = new AddJobBookingViewModel();
         }
-
         private void btnBackToJobBookingManagement_Click(object sender, RoutedEventArgs e)
         {
             this.NavigationService.Navigate(new Uri("Views/JobBookingManagement.xaml",
                 UriKind.Relative));
         }
-
         private void btnFindSessions_Click(object sender, RoutedEventArgs e)
         {
             _confirm = true;
@@ -45,17 +42,11 @@ namespace BitServices_version_1.Views
         {
             _confirm = false;
             UpdateButtons();
-           
         }
-
         private void UpdateButtons()
         {
-            
-            
             btnConfirm.IsEnabled = _confirm;
-
         }
 
-       
     }
 }

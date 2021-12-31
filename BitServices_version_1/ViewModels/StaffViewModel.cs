@@ -13,14 +13,7 @@ namespace BitServices_version_1.ViewModels
     public class StaffViewModel
     {
         ObservableCollection<Staff> _staffs;
-        private Staff _selectedStaff; //bring this functionality
-                                        //To be able to react to a button click event
-                                        //we must first of all  tell the applcation that 
-                                        //an event is occured at the Windows (View) level
-
-        //to the datagrid
-
-        //Customers is the name of the collection that we are binding on our WPF
+        private Staff _selectedStaff; 
        
         public ObservableCollection<Staff> Staffs
         {
@@ -34,21 +27,17 @@ namespace BitServices_version_1.ViewModels
         }
         public StaffViewModel()
         {
-            //Generate the list of Customers from Database
-            //Customers is still your list class and it is still you can all it as 
-            //your Business Logic class
+            
             Staffs allStaffs = new Staffs();
-            //ObservableCollection<T> is a class that listens to the events
+   
             Staffs = new ObservableCollection<Staff>(allStaffs);
         }
-        //ViewModels can be inherited so its a good idea to add the methods as
-        //virtual so that you can override them in future
-
+        
 
         public virtual ObservableCollection<Staff> GetAllStaffs()
         {
             Staffs allStaffs = new Staffs();
-            //ObservableCollection<T> is a class that listens to the events
+            
             Staffs = new ObservableCollection<Staff>(allStaffs);
             return Staffs;
         }

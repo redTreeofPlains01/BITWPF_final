@@ -8,8 +8,8 @@ using System.Threading.Tasks;
 
 namespace BitServices_version_1.Models
 {
-    public class Contractors : List<Contractor>//becuase Customers class has been inherited from List class
-                                        //it is already a empty list of type client
+    public class Contractors : List<Contractor>//becuase Clients class has been inherited from List class
+      //it is already a empty list of type client
     {
         public Contractors(string firstname = null, string lastname = null)
         {

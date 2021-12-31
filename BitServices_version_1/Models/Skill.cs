@@ -21,10 +21,8 @@ namespace BitServices_version_1.Models
 
         private void OnPropertyChanged(string prop)
         {
-            if (PropertyChanged != null) //this is checking if we do have an event handler
+            if (PropertyChanged != null) 
             {
-                //PropertyChanged() is a delegate that will call an EventHandler
-                //depending on who is Subscribed to listen to this event
                 PropertyChanged(this, new PropertyChangedEventArgs(prop));
             }
         }
@@ -54,9 +52,7 @@ namespace BitServices_version_1.Models
         }
         public Skill(DataRow dr)
         {
-            //fill in all the properties using dr["columnname"] 
-            //$ummary: This is coming from Bookings
-           
+  
             SkillName = dr["skillName"].ToString();
             SkillDescription = dr["skillDescription"].ToString();
             _db = new SQLHelper("BS");

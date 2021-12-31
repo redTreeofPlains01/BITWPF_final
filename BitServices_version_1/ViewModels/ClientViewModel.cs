@@ -14,11 +14,11 @@ namespace BitServices_version_1.ViewModels
         ObservableCollection<Client> _clients;
         private Client _selectedClient; //bring this functionality
                      //To be able to react to a button click event
-                      //we must first of all  tell the applcation that 
+                      //we must first of all  tell the application that 
                        //an event is occured at the Windows (View) level
                        //to the datagrid
 
-        //Customers is the name of the collection that we are binding on our WPF
+        //Clients is the name of the collection that we are binding on our WPF
        
         public ObservableCollection<Client> Clients
         {
@@ -32,8 +32,8 @@ namespace BitServices_version_1.ViewModels
         }
         public ClientViewModel()
         {
-            //Generate the list of Customers from Database
-            //Customers is still your list class and it is still you can all it as 
+            //Generate the list of Clients from Database
+            //Clients is still your list class and it is still you can all it as 
             //your Business Logic class
             Clients allClients = new Clients();
             //ObservableCollection<T> is a class that listens to the events
@@ -89,10 +89,6 @@ namespace BitServices_version_1.ViewModels
             SQLHelper objHelper = new SQLHelper("BS");
             objHelper.ExecuteNonQuery(sqlStr);
         }
-
-
-
-
 
     }
 }

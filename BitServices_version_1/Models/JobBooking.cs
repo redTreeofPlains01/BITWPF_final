@@ -37,16 +37,11 @@ namespace BitServices_version_1.Models
         private SQLHelper _db;
         public event PropertyChangedEventHandler PropertyChanged;
 
-        //this part is the magic code for your models to become Event oriented so
-        //that you can now bypass WPF controls Event Handlers and due to that
-        //avoid the code behind event handlers
        
         private void OnPropertyChanged(string prop)
         {
-            if (PropertyChanged != null) //this is checking if we do have an event handler
+            if (PropertyChanged != null)
             {
-                //PropertyChanged() is a delegate that will call an EventHandler
-                //depending on who is Subscribed to listen to this event
                 PropertyChanged(this, new PropertyChangedEventArgs(prop));
             }
         }
@@ -55,7 +50,7 @@ namespace BitServices_version_1.Models
             get { return _jobBookingId; }
             set { _jobBookingId = value; }
         }
-        public DateTime JobBookingDate //$$$$_This needs to match exactly to Binding in BookingManagement.xaml
+        public DateTime JobBookingDate //$$_This needs to match exactly to Binding in BookingManagement.xaml
         {
             get { return _jobBookingDate; }
             set

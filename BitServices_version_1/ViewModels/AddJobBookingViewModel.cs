@@ -11,7 +11,7 @@ using System.Windows.Controls;
 using BitServices_version_1.DataAccessLayer;
 using BitServices_version_1.Models;
 
-/*US: as as staff I would like to submit a new booking for a custoemer for greater client servce
+/*User Story US: as as staff I would like to submit a new booking for a custoemer for greater client service
 1.key in all required details for new booking(Click find sessions after this- remember in FD a new booking row is not added yet)
 2.find a contractor available and then confirm the booking with a contractor*/
 
@@ -21,10 +21,11 @@ namespace BitServices_version_1.ViewModels
     {
         private JobBooking _jobbooking;
         ObservableCollection<AvailableSession> _availableSessions;
-
         private AvailableSession _selectedSession;
         private MyCommand _findCommand;
         private MyCommand _confirmCommand;
+
+
         private Client _client;
         ObservableCollection<SearchClient> _searchClients;
         private SearchClient _selectedClient;
@@ -33,11 +34,19 @@ namespace BitServices_version_1.ViewModels
 
         public event PropertyChangedEventHandler PropertyChanged;
 
-        private void OnPropertyChanged(string prop)
+        //**********
+        public JobBooking JobBooking
         {
-            if (PropertyChanged != null)
+            get { return _jobbooking; }
+            set { _jobbooking = value; }
+        }
+        public ObservableCollection<AvailableSession> AvailableSessions
+        {
+            get { return _availableSessions; }
+            set
             {
-                PropertyChanged(this, new PropertyChangedEventArgs(prop));
+                _availableSessions = value;
+                OnPropertyChanged("AvailableSessions");
             }
         }
         public AvailableSession SelectedSession
@@ -75,9 +84,82 @@ namespace BitServices_version_1.ViewModels
                 _confirmCommand = value;
             }
         }
+
+
+
+
+        public Client Client
+        {
+            get { return _client; }
+            set { _client = value; }
+        }
+        public ObservableCollection<SearchClient> SearchClients
+        {
+            get { return _searchClients; }
+            set
+            {
+                _searchClients = value;
+                OnPropertyChanged("SearchClients");
+            }
+        }
+        public SearchClient SelectedClient
+        {
+            get { return _selectedClient; }
+            set { _selectedClient = value; }
+        }
+        public MyCommand SearchCommand
+        {
+            get
+            {
+                if (_searchCommand == null)
+                {
+                    _searchCommand = new MyCommand(this.SearchMethod, true);
+                }
+                return _searchCommand;
+            }
+            set
+            {
+                _searchCommand = value;
+            }
+        }
+
+
+
+        //******
+
+
+
+
+        public AddJobBookingViewModel()
+        {
+            _jobbooking = new JobBooking();
+
+            _selectedClient = new SearchClient();
+        }
+
+
+
+
+        //*******
+        private void OnPropertyChanged(string prop)
+        {
+            if (PropertyChanged != null)
+            {
+                PropertyChanged(this, new PropertyChangedEventArgs(prop));
+            }
+        }
+
+
+        public void FindMethod()
+        {
+            //Will bring in all available sessions in the grid
+            //Grid is binded to the observable collection that this FindMethod brings in
+            AvailableSessions allSessions = new AvailableSessions(JobBooking.JobBookingDate, JobBooking.JobStartTime, JobBooking.JobEndTime, JobBooking.SkillName);
+
+            AvailableSessions = new ObservableCollection<AvailableSession>(allSessions);
+        }
+
         public void AddMethod()
-
-
         {
             SQLHelper objHelper = new SQLHelper("BS");
             SqlParameter[] objParams = new SqlParameter[11];
@@ -107,12 +189,6 @@ namespace BitServices_version_1.ViewModels
             objHelper.ExecuteSQL("AddNewLocAndBooking", objParams, true);
 
 
-
-
-
-
-
-
             /*
             //first we want to insert a row in booking table
             //second we want to update the availablitlty table
@@ -128,7 +204,6 @@ namespace BitServices_version_1.ViewModels
            
              JobBooking.SkillName + "')";
 
-            
 
             /*+ "from JobBooking jb, Location l, " +
             "ContractorSkills cs, Client cl, Contractor co " +
@@ -160,82 +235,17 @@ namespace BitServices_version_1.ViewModels
            
             /*string updateStr = "update Availability set status = 'NA' where availabilityid = " + SelectedSession.AvailableId;
             objHelper.ExecuteNonQuery(updateStr);*/
-            
-
         }
-        public void FindMethod()
-        {
-            //will bring in all available sessions in the grid
-            //Grid is binded to the observable collection that this findMethod
-            AvailableSessions allSessions = new AvailableSessions(JobBooking.JobBookingDate, 
-                JobBooking.JobStartTime, JobBooking.JobEndTime, JobBooking.SkillName);
-            AvailableSessions = new ObservableCollection<AvailableSession>(allSessions);
-        }
-        public ObservableCollection<AvailableSession> AvailableSessions
-        {
-            get { return _availableSessions; }
-            set
-            {
-                _availableSessions = value;
-                OnPropertyChanged("AvailableSessions");
-            }
-        }
-        public AddJobBookingViewModel()
-        {
-            _jobbooking = new JobBooking();
-
-            _selectedClient = new SearchClient();
-        }
-
-
-        public JobBooking JobBooking
-        {
-            get { return _jobbooking; }
-            set { _jobbooking = value; }
-        }
+      
+       
 
         public void SearchMethod()
         {
-            //will bring in all available sessions in the grid
-            //Grid is binded to the observable collection that this SearchMethod
+            //Will bring in all available sessions in the grid
+            //Grid is binded to the observable collection that this SearchMethod brings in
             SearchClients allClients = new SearchClients(SelectedClient.CFName, SelectedClient.CLName);
             SearchClients = new ObservableCollection<SearchClient>(allClients);
         }
-        public ObservableCollection<SearchClient> SearchClients
-        {
-            get { return _searchClients; }
-            set
-            {
-                _searchClients = value;
-                OnPropertyChanged("SearchClients");
-            }
-        }
 
-        public SearchClient SelectedClient
-        {
-            get { return _selectedClient; }
-            set { _selectedClient = value; }
-        }
-        public MyCommand SearchCommand
-        {
-            get
-            {
-                if (_searchCommand == null)
-                {
-                    _searchCommand = new MyCommand(this.SearchMethod, true);
-                }
-                return _searchCommand;
-            }
-            set
-            {
-                _searchCommand = value;
-            }
-        }
-
-        public Client Client
-        {
-            get { return _client; }
-            set { _client = value; }
-        }
     }
 }

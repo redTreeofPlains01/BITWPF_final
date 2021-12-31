@@ -26,14 +26,11 @@ namespace BitServices_version_1.Views
             InitializeComponent();
             this.DataContext = new ContractorViewModel();
         }
-
-
         private void btnAddNewContractor_Click(object sender, RoutedEventArgs e)
         {
             this.NavigationService.Navigate(new Uri("Views/AddContractorView.xaml",
                UriKind.Relative));
         }
-
         private void btnUpdateContractorSkills_Click(object sender, RoutedEventArgs e)
         {
             this.NavigationService.Navigate(new Uri("Views/ContractorSkillManagement.xaml",

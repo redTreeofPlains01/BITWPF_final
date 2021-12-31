@@ -51,7 +51,7 @@ namespace BitServices_version_1.ViewModels
         {
             _client = new Client();
         }
-        public Client Client  //$$$$$_This is the name you use in our View
+        public Client Client  //$$_This is the name you use in our View
         {
             get { return _client; }
             set { _client = value; }

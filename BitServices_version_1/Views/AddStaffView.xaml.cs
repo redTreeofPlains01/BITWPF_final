@@ -27,8 +27,6 @@ namespace BitServices_version_1.Views
             this.DataContext = new AddStaffViewModel();
         }
 
-       
-        
         private void btnBackToStaffManagement_Click(object sender, RoutedEventArgs e)
         {
             this.NavigationService.Navigate(new Uri("Views/StaffManagement.xaml",

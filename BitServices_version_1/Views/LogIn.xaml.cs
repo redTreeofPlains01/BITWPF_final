@@ -27,13 +27,7 @@ namespace BitServices_version_1.Views
             InitializeComponent();
 
             //this.DataContext = new AddJobBookingViewModel();
-
         }
-
-        
-
-
-
 
     }
 }

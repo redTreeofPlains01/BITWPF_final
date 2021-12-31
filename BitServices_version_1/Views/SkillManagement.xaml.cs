@@ -26,7 +26,6 @@ namespace BitServices_version_1.Views
             InitializeComponent();
             this.DataContext = new SkillViewModel();
         }
-
         private void btnAddNewSkill_Click(object sender, RoutedEventArgs e)
         {
             this.NavigationService.Navigate(new Uri("Views/AddSkill.xaml",

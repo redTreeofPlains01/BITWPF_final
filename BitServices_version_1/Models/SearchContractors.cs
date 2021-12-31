@@ -23,7 +23,6 @@ namespace BitServices_version_1.Models
             DataTable searchTable = objHelper.ExecuteSQL(sqlStr);
             foreach (DataRow dr in searchTable.Rows)
             {
-                //From Bookings>to Booking :This is going to Booking what was braught in from the dattabase 
                 SearchContractor search = new SearchContractor(dr);
                 this.Add(search);
             }

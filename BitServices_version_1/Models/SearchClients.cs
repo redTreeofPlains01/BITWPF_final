@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace BitServices_version_1.Models
-{//This will have a method that brings in all serached customers using 1 parameter -name in searchbox
+{//This will have a method that brings in all serached Clients using 1 parameter -name in searchbox
     public class SearchClients : List<SearchClient>
     {
         public SearchClients(string firstname, string lastname)

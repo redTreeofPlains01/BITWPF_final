@@ -24,14 +24,14 @@ namespace BitServices_version_1.Views
         public ClientManagement()
         {
             InitializeComponent();
-            //this is where the contructor of Customers class is inititated and will then connect
+            //this is where the contructor of Clients class is inititated and will then connect
             //to DB and bring all the customers in the form a list of Customers
             //allCustomers is a list of Customers
             //here we only want to set hte data context to a ViewModel Class
             //1 view : 1 View Model
             this.DataContext = new ClientViewModel();
-            /* Customers allCustomers = new Customers();
-             dgCustomers.ItemsSource = allCustomers;         */
+            /* Clients allClients = new Clients();
+             dgClients.ItemsSource = allClients;         */
         }
         //until now we made use of WPF pre made events under each of our WPF controls
         //a lot of connection information was written insider the event handler

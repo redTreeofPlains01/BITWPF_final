@@ -26,7 +26,6 @@ namespace BitServices_version_1.Views
             InitializeComponent();
             this.DataContext = new StaffViewModel();
         }
-
         private void btnAddNewStaff_Click(object sender, RoutedEventArgs e)
         {
             //when this button is clicked we want to move to a new page inside the same

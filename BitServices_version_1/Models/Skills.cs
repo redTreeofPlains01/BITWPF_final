@@ -12,8 +12,7 @@ namespace BitServices_version_1.Models
     {
         public Skills()
         {
-            //write a query to bring all the bookings with booking date, client id and name,
-            //contractor's id and name and start time (Booking, Availability, TimeSlot, Client, Instructor)
+            
             SQLHelper db = new SQLHelper("BS");
             string sqlStr = "select skillname, skilldescription  " +
                 " from Skills ";
@@ -30,7 +29,7 @@ namespace BitServices_version_1.Models
 
             foreach (DataRow dr in jobBookingsTable.Rows)
             {
-                //From Bookings>to Booking :This is going to Booking what was braught in from the dattabase 
+                 
                 Skill skill = new Skill(dr);
                 this.Add(skill);
             }

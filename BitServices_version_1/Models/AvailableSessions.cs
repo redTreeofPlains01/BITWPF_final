@@ -15,7 +15,6 @@ namespace BitServices_version_1.Models
         {
 
 
-
            // string sqlAvailSession = "AllAvailableContrSessions(@desireddate,@desiredstartime," +
             //    "@desiredendTime,@skillname)";
 
@@ -40,20 +39,6 @@ namespace BitServices_version_1.Models
                 AvailableSession session = new AvailableSession(dr);
                 this.Add(session);
             }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

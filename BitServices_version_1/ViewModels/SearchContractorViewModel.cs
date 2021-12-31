@@ -53,10 +53,9 @@ namespace BitServices_version_1.ViewModels
         }
 
 
-
         public void SearchMethod()
         {
-            //will briung in all available sessions in the grid
+            //will bring in all available sessions in the grid
             //Grid is binded to the observable collection that this findMethod
             SearchContractors allContractors = new SearchContractors(SelectedContractor.ContFName, SelectedContractor.ContLName);
             SearchContractors = new ObservableCollection<SearchContractor>(allContractors);
@@ -71,7 +70,6 @@ namespace BitServices_version_1.ViewModels
             }
         }
         
-
         public Contractor Contractor
         {
             get { return _contractor; }

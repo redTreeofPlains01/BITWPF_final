@@ -29,16 +29,12 @@ namespace BitServices_version_1.Views
             this.DataContext = new ContractorSkillViewModel();
 
         }
-
-    
-
         private void btNSaveContractorSkills_Click(object sender, RoutedEventArgs e)
         {
             this.DataContext = new ContractorSkillViewModel();
 
             
         }
-
         private void SearchContractor_Click(object sender, RoutedEventArgs e)
         {
             this.DataContext = new SearchContractorViewModel();

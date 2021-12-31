@@ -11,12 +11,11 @@ namespace UnitTestProject1
     public class BSClientUnitTests
     {
         //Unit Test case ID : 10001
-        //This test case will test the observable collection for customer view model to see if it 
-        //generates the correct number of customers
-        //Rmemeber that you are connecting to databasd to retrieve the customers and copy them to 
-        //observable collection. Meaning if the applcation then adds new customers 
-        //number of customers(count) may not match with the static 5 that is why this is not a pure unit test
-        //But these types of tests are actulllay  called Integration test cases.
+        //This test case will test the observable collection for Client view model to see if it 
+        //generates the correct number of Clients
+        //Remember that you are connecting to database to retrieve the Clients and copy them to the observable collection. Meaning if the applcation then adds new Clients 
+        //number of Clients(count) may not match with the static 5 that is why this is not a pure unit test
+        //But these types of tests are actulllay called Integration test cases.
         [TestMethod]
         public void TestClientCollection()
         {
@@ -26,7 +25,7 @@ namespace UnitTestProject1
 
         }
 
-        //the follwing code is typical unit test...no connecting any exteranl service/ application
+        //the following code is typical unit test...no connecting any exteranl service/ application
         [TestMethod]
         public void TestClientObject()
         {
@@ -45,7 +44,7 @@ namespace UnitTestProject1
             };
             Assert.AreEqual("Randy", client.FirstName);
             //try a few asserts here
-            //you can make this method to add this customer to the database by connecting to the addmethod()
+            //you can make this method to add this Client to the database by connecting to the addmethod()
         }
         [TestMethod]
         public void TestClientCollectionMock()
@@ -67,14 +66,14 @@ namespace UnitTestProject1
                  }
             );
             Mock<ClientViewModel> mockClientVM = new Mock<ClientViewModel>();
-            mockClientVM.Setup(mc => mc.GetAllClients()).Returns(mockClients);//this part of synstax to use getallcustomers utilising bypass
+            mockClientVM.Setup(mc => mc.GetAllClients()).Returns(mockClients);//this part of syntax to use getallClients utilising bypass
             int count = mockClientVM.Object.GetAllClients().Count;
             Assert.AreEqual(1, count);
 
-            //get => _customerId;
-            //set => _customerId = value;
-            //get { return _customerId; }
-            //set { _customerId = value; }
+            //get => _clientId;
+            //set => _clientId = value;
+            //get { return _ClientId; }
+            //set { _ClientId = value; }
         }
     }
 }

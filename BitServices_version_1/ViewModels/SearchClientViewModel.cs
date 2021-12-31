@@ -70,11 +70,11 @@ namespace BitServices_version_1.ViewModels
                 {
                     //first we want to insert a row in booking table
                     //second we want to update the availablitlty table
-                    string sqlStr = "insert into Booking(availabilityid, customerid, address, suburb, postcode," +
+                    string sqlStr = "insert into Booking(availabilityid, Clientid, address, suburb, postcode," +
 
                      " state, status, kilometers) values(" + SelectedSession.AvailableId + ", " +
 
-                     Booking.CustomerID + ", '"
+                     Booking.ClientID + ", '"
 
                      + Booking.Address + "', '" + Booking.Suburb + "', '" + Booking.PostCode + "', '" +
 
@@ -85,6 +85,7 @@ namespace BitServices_version_1.ViewModels
                     string updateStr = "update Availability set status = 'NA' where availabilityid = " + SelectedSession.AvailableId;
                     objHelper.ExecuteNonQuery(updateStr);
                 }*/
+
         public void SearchMethod()
         {
             //will briung in all available sessions in the grid
@@ -92,6 +93,7 @@ namespace BitServices_version_1.ViewModels
             SearchClients allClients = new SearchClients(Client.FirstName, Client.LastName);
             SearchClients = new ObservableCollection<SearchClient>(allClients);
         }
+
         public ObservableCollection<SearchClient> SearchClients
         {
             get { return _searchClients; }

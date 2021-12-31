@@ -43,7 +43,6 @@ namespace BitServices_version_1.Views
         private void UpdateButtons()
         {
 
-
             btnAddNewClient.IsEnabled = _confirm;
 
         }

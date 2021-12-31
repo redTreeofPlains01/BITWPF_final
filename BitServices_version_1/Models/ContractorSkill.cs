@@ -16,10 +16,8 @@ namespace BitServices_version_1.Models
         public event PropertyChangedEventHandler PropertyChanged;
         private void OnPropertyChanged(string prop)
         {
-            if (PropertyChanged != null) //this is checking if we do have an event handler
+            if (PropertyChanged != null) 
             {
-                //PropertyChanged() is a delegate that will call an EventHandler
-                //depending on who is Subscribed to listen to this event
                 PropertyChanged(this, new PropertyChangedEventArgs(prop));
             }
         }

@@ -11,7 +11,6 @@ namespace BitServices_version_1.DataAccessLayer
 {
     public class SQLHelper
     {
-
         private string _conn;
         private static readonly NLog.Logger logger = NLog.LogManager.GetCurrentClassLogger();
         public SQLHelper(string conn)
@@ -102,7 +101,6 @@ namespace BitServices_version_1.DataAccessLayer
                 return returnValue;
             }
             catch (SqlException ex)
-
             {
                 logger.Error(ex.Message);
                 throw new Exception(ex.Message);

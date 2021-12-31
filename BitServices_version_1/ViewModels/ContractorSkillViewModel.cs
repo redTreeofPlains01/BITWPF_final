@@ -27,15 +27,11 @@ namespace BitServices_version_1.ViewModels
         public event PropertyChangedEventHandler PropertyChanged;
 
        
-        //this part is the magic code for your models to become Event oriented so
-        //that you can now bypass WPF controls Event Handlers and due to that
-        //avoid the code behind event handlers
+       
         private void OnPropertyChanged(string prop)
         {
-            if (PropertyChanged != null) //this is checking if we do have an event handler
+            if (PropertyChanged != null) 
             {
-                //PropertyChanged() is a delegate that will call an EventHandler
-                //depending on who is Subscribed to listen to this event
                 PropertyChanged(this, new PropertyChangedEventArgs(prop));
             }
         }
@@ -105,14 +101,10 @@ namespace BitServices_version_1.ViewModels
             SelectedSkill = new Skill();
             _selectedContractor = new Contractor();
 
-
             //ContractorSkills allContractorSkills = new ContractorSkills(SelectedContractor.ContractorId);
             //ContractorSkills = new ObservableCollection<ContractorSkill>(allContractorSkills);
             
         }
-
-
-
 
 
         public MyCommand AddSkillCommand
@@ -131,7 +123,6 @@ namespace BitServices_version_1.ViewModels
             }
         }
 
-
         public void AddskillMethod()
         {
             //first we want to insert a row in booking table
@@ -140,7 +131,6 @@ namespace BitServices_version_1.ViewModels
             //s.SkillName = "---Select a Skill---";
 
             //string skill = cboSkillsList.SelectedValue.ToString();
-
 
 
             if (SelectedSkill.SkillName  == "---Select a Skill---")
@@ -180,9 +170,7 @@ namespace BitServices_version_1.ViewModels
                 SQLHelper objHelper = new SQLHelper("BS");
                 objHelper.ExecuteNonQuery(sqlStr);*/
             }
-
-            
-
+  
         }
 
 
@@ -192,7 +180,7 @@ namespace BitServices_version_1.ViewModels
             ContractorSkills = new ObservableCollection<ContractorSkill>(allSkillsC);
         }
 
-        /*private void LoadSkillsListComboBox()
+    /*private void LoadSkillsListComboBox()
     {
         cboSkillsList.DisplayMemberPath = "JobSkill_Type";
         cboSkillsList.SelectedValuePath = "JobSkill_ID";

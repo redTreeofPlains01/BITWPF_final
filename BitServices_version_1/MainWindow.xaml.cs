@@ -39,33 +39,28 @@ namespace BitServices_version_1
 
         private void btnClient_Click(object sender, RoutedEventArgs e)
         {
-            //new object of type CustomerManagement and link that up as a content for the contentFrame
+            //new object of type ClientManagement and link that up as a content for the contentFrame
             //then we should be able to see the the page
             contentFrame.Content = new ClientManagement();
         }
-
         private void btnStaff_Click(object sender, RoutedEventArgs e)
         {
             //when the Staff button is clicked we will link up the content for StaffMangement() page
             contentFrame.Content = new StaffManagement();
         }
-
         private void btnContractors_Click(object sender, RoutedEventArgs e)
         {
             contentFrame.Content = new ContractorManagement();
 
         }
-
         private void btnContractorSkills_Click(object sender, RoutedEventArgs e)
         {
             contentFrame.Content = new ContractorSkillManagement();
         }
-
         private void btnSkillsManagement_Click(object sender, RoutedEventArgs e)
         {
             contentFrame.Content = new SkillManagement();
         }
-
         private void btnJobBookings_Click(object sender, RoutedEventArgs e)
         {
             contentFrame.Content = new JobBookingManagement();
@@ -97,15 +92,11 @@ namespace BitServices_version_1
                 btnStaff.IsEnabled = true;
                 contentFrame.Content = new ClientManagement();
 
-
             }
             else
             {
                 MessageBox.Show("USername or password incorrect please try again....");
             }
-
-
-
 
         }
 
@@ -116,10 +107,8 @@ namespace BitServices_version_1
             btnContractorSkills.IsEnabled = false;
             btnSkillsManagement.IsEnabled = false;
             btnJobBookings.IsEnabled = false;
-            btnStaff.IsEnabled = false;
-            
+            btnStaff.IsEnabled = false;   
         }
-
         */
     }
 }

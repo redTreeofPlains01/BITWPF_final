@@ -22,7 +22,7 @@ namespace BitServices_version_1.ViewModels
         {
             get
             {
-                if (_addCommand == null)//this is actually like a state, state is null meaning no command is running then run the Add()
+                if (_addCommand == null)
                 {
                     _addCommand = new MyCommand(this.AddMethod, true);
                 }
@@ -52,7 +52,7 @@ namespace BitServices_version_1.ViewModels
         {
             _staff = new Staff();
         }
-        public Staff Staff  //$$$$$_This is the name you use in our View
+        public Staff Staff 
         {
             get { return _staff; }
             set { _staff = value; }
